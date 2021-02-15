@@ -1,0 +1,13 @@
+li {
+	 display: inline;
+	 text-decoration: box;
+}
+ul {
+	text-align: right;
+}
+.tagline {
+	text-align: center;
+}
+.ad {
+	text-align: center;
+}
